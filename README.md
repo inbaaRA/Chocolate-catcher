@@ -1,1 +1,1 @@
- https://inbaara.github.io/Chocolate-catcher/.
+https://inbaara.github.io/Chocolate-catcher/
